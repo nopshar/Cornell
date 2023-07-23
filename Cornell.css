@@ -1,3 +1,6 @@
+/** Place this file in your $VAULT_NAME/.obsidian/snippets/ and enable the snippet in the Appearance Settings **/
+
+
 :root {
     --cue-width: 120px;
     --cue-offset: var(--cue-width);
